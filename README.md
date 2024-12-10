@@ -36,6 +36,6 @@ Dataset: https://docs.google.com/spreadsheets/d/1ntl588TTtYCebQkxn-oVEcmrQ-FQqV4
 
 In our project, we created a car data analysis program to help a car enthusiast compare different cars based on their brand, mileage, year, and type. The User Story focuses on making it easy to analyze car details for decision-making. We used a dataset with columns like Brand, Mileage, Year, and Type, which were stored in 1D arrays. Each car was represented as an object with instance variables for these attributes.
 
-The program uses object-oriented programming concepts like classes, constructors, and methods to process and display the data. For example, We included a method to calculate random mileage between a car's minimum and maximum range. My project also used the toString() method to display car details clearly.
+The program uses object-oriented programming concepts like classes, constructors, and methods to process and display the data. For example, We included a method to calculate random mileage between a car's minimum and maximum range. Our project also used the toString() method to display car details clearly.
 
 Although We didn’t use the Scanner class for user input, the program automatically selects and displays random car data to keep it simple and user-friendly. By focusing on concepts like array traversal and file reading methods, the project meets the user's goal of making car data easy to compare.
